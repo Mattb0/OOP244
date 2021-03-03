@@ -1,3 +1,7 @@
 # OOP244
-Assignments made for OOP244 ( Introduction to Object-Oriented Programming)
-I am uploading these projects to contribute to my portfolio. Instructor provided files (such as .h files) have been removed
+
+Object-Oriented Programming using C++17 for OO244
+
+I am uploading these projects to contribute to my portfolio.
+
+Feel free to reference but please do not plagiarize.
